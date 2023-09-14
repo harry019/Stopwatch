@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.Chronometer;
 import android.widget.Toast;
 
+import com.stopwatch.R;
+
 public class MainActivity extends AppCompatActivity {
     private boolean isRunning = false;
     private long pauseOffset = 0;
